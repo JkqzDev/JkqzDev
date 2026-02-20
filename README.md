@@ -40,7 +40,6 @@ I enjoy working across the stack, designing backend architectures, and building 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JkqzDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JkqzDev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
