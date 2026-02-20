@@ -1,15 +1,65 @@
-# 💫 About Me:
-Hey, I´m Juan. Welcome!
+<h1 align="center">JuqnGOOOD</h1>
+<p align="center">
+  Software Developer
+</p>
 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JkqzDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JkqzDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=JkqzDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Developer;Building+Scalable+Systems;Backend+%26+Frontend+Engineering;Always+Improving" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JkqzDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I’m a 20-year-old Software Developer focused on building scalable, maintainable systems.  
+I enjoy working across the stack, designing backend architectures, and building clean front-end applications.
+
+---
+
+## Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,php,python,go" />
+</p>
+
+### ⚛ Frontend & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vercel" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JkqzDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JkqzDev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JkqzDev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Focus Areas
+
+- Backend development and system design  
+- REST APIs and scalable services  
+- Frontend applications with React  
+- Database design and optimization  
+- Clean architecture and performance  
+
+---
+
+<p align="center">
+  Building reliable software with clean architecture.
+</p>
